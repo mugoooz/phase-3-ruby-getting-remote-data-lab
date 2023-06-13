@@ -1,1 +1,5 @@
-# Write your code here
+require 'net/http'
+require 'json'
+
+class GetRequester
+end
